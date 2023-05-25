@@ -2,7 +2,7 @@
 ***
 🚀 About Me 
 ---
-🎓 MCA student at BVICAM, New Delhi
+🎓 Final semester MCA student at BVICAM, New Delhi
 ### <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhiljayant&theme=dark" />
 <!--
 **nikhiljayant/nikhiljayant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
