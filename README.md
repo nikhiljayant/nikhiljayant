@@ -2,7 +2,7 @@
 ***
 🚀 About Me 
 ---
-🎓 Final semester MCA student at BVICAM, New Delhi.__
+🎓 Final semester MCA student at BVICAM, New Delhi.___
 📚 Currently learning Full Stack Development.
 ### <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhiljayant&theme=dark" />
 <!--
