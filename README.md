@@ -3,8 +3,11 @@
 🚀 About Me 
 ---
 🎓 Final semester MCA student at BVICAM, New Delhi. <br />
+<br />
 📚 Currently learning Full Stack Development. <br />
+<br />
 💡 My specialties include learning new skills and programming languages, and problem-solving. So far I have HTML5, CSS3, Tailwind CSS, JavaScript, ReactJS, Redux, Git/GitHub, Java, MongoDB and Mongoose under my belt. I am still enthusiastically exploring new skills and pushing myself to learn something new every day. <br />
+<br />
 🌐 I'm also a part of an Open source community.
 ### <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhiljayant&theme=dark" />
 <!--
