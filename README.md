@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Nikhil Jayant
 ## 🚀 About Me 
----
 🎓 Final semester MCA student at BVICAM, New Delhi. <br />
 <br />
 📚 Currently learning Full Stack Development. <br />
