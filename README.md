@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Nikhil Jayant
+#Hi there 👋 I'm Nikhil Jayant
 ## 🚀 About Me 
 🎓 Final semester MCA student at BVICAM, New Delhi. <br />
 <br />
@@ -8,7 +8,8 @@
 <br />
 🌐 I'm also a part of an Open source community.
 ## 🏆 Achievements
-🥇 Subject topper in DBMS in 12th class.
+🥇 Subject topper in DBMS in 12th class. <br/>
+Stream topper in 12th class. <br />
 ### <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhiljayant&theme=dark" />
 <!--
 **nikhiljayant/nikhiljayant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
