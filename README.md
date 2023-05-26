@@ -4,7 +4,7 @@
 <br />
 📚 Currently learning Full Stack Development. <br />
 <br />
-💡 My specialties include learning new skills and programming languages, and problem-solving. So far I have HTML5, CSS3, Tailwind CSS, JavaScript, ReactJS, Redux, Git/GitHub, Java, MongoDB and Mongoose under my belt. I am still enthusiastically exploring new skills and pushing myself to learn something new every day. <br />
+💡 I have a passion for expanding my skill set and problem-solving, with expertise in HTML5, CSS3, Tailwind CSS, JavaScript, ReactJS, Redux, Git/GitHub, Java, MongoDB, and Mongoose. I'm constantly seeking new knowledge and embracing the challenge of learning something new each day. <br />
 <br />
 🌐 I'm also a part of an Open source community.
 ## 🏆 Achievements
