@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/bJk.gif" class="centre" />
+<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" class="centre" />
 ### Hi there 👋 I'm Nikhil Jayant
 ***
 **🚀 About Me :** <br />
