@@ -1,3 +1,4 @@
+<img src="https://i.gifer.com/bJk.gif" class="centre" />
 ### Hi there 👋 I'm Nikhil Jayant
 ***
 **🚀 About Me :** <br />
