@@ -7,7 +7,9 @@
 • 💡 I have a passion for expanding my skill set and problem-solving, with expertise in HTML5, CSS3, Tailwind CSS, JavaScript, ReactJS, Redux, Git/GitHub, Java, MongoDB, and Mongoose. I'm constantly seeking new knowledge and embracing the challenge of learning something new each day. <br />
 <br />
 • 🌐 I'm also a part of an Open source community.
-## 🏆 Achievements
+***
+**🏆 Achievements** <br />
+<br />
 • Subject topper in DBMS in 12th class. <br/>
 <br />
 • Stream topper in 12th class. <br />
