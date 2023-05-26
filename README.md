@@ -1,8 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="100" />
-</div>
 # Hi there 👋 I'm Nikhil Jayant
-<br />
 ## 🚀 About Me 
 🎓 Final semester MCA student at BVICAM, New Delhi. <br />
 <br />
