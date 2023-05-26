@@ -1,3 +1,6 @@
+<div align="centre">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
+</div>
 **Hi there 👋 I'm Nikhil Jayant**
 ***
 **🚀 About Me :** <br />
