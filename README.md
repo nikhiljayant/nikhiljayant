@@ -1,8 +1,4 @@
-<div align="centre">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100" height="300" />
-</div>
-***
-***Hi there 👋 I'm Nikhil Jayant***
+**Hi there 👋 I'm Nikhil Jayant**
 ***
 **🚀 About Me :** <br />
 <br />
