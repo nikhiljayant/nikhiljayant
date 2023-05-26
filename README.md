@@ -12,11 +12,11 @@ Subject topper in DBMS in 12th class. <br/>
 <br />
 Stream topper in 12th class. <br />
 <br />
+## 🔗 Let Connect
+<a href="https://twitter.com/njayant86"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/nikhil-jayant-3669a8207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ## 📊 Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhiljayant&theme=dark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhiljayant&theme=dark" />
-## 🔗 Let Connect
-<a href="https://twitter.com/njayant86"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/nikhil-jayant-3669a8207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!--
 **nikhiljayant/nikhiljayant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
