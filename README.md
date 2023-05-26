@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Nikhil Jayant
 ## 🚀 About Me 
-🎓 Final semester MCA student at BVICAM, New Delhi. <br />
+• 🎓 Final semester MCA student at BVICAM, New Delhi. <br />
 <br />
-📚 Currently learning Full Stack Development. <br />
+• 📚 Currently learning Full Stack Development. <br />
 <br />
-💡 I have a passion for expanding my skill set and problem-solving, with expertise in HTML5, CSS3, Tailwind CSS, JavaScript, ReactJS, Redux, Git/GitHub, Java, MongoDB, and Mongoose. I'm constantly seeking new knowledge and embracing the challenge of learning something new each day. <br />
+• 💡 I have a passion for expanding my skill set and problem-solving, with expertise in HTML5, CSS3, Tailwind CSS, JavaScript, ReactJS, Redux, Git/GitHub, Java, MongoDB, and Mongoose. I'm constantly seeking new knowledge and embracing the challenge of learning something new each day. <br />
 <br />
-🌐 I'm also a part of an Open source community.
+• 🌐 I'm also a part of an Open source community.
 ## 🏆 Achievements
 Subject topper in DBMS in 12th class. <br/>
 <br />
