@@ -15,7 +15,8 @@ Stream topper in 12th class. <br />
 ## 🔗 Let Connect
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <br/>
-### <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhiljayant&theme=dark" />
+## 📊 Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhiljayant&theme=dark" />
 <!--
 **nikhiljayant/nikhiljayant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
