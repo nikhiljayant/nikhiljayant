@@ -1,4 +1,6 @@
 # Hi there 👋 I'm Nikhil Jayant
+<br />
+<img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" />
 ## 🚀 About Me 
 🎓 Final semester MCA student at BVICAM, New Delhi. <br />
 <br />
