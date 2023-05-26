@@ -8,7 +8,8 @@
 <br />
 🌐 I'm also a part of an Open source community.
 ## 🏆 Achievements
-🥇 Subject topper in DBMS in 12th class. <br/>
+<img src="https://github-profile-trophy.vercel.app/?username=nikhiljayant&theme=dark" /> Subject topper in DBMS in 12th class. <br/>
+<br />
 Stream topper in 12th class. <br />
 ### <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhiljayant&theme=dark" />
 <!--
