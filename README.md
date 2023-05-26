@@ -11,13 +11,10 @@
 Subject topper in DBMS in 12th class. <br/>
 <br />
 Stream topper in 12th class. <br />
-<br />
 ## 🔗 Let Connect
 <a href="https://github.com/nikhiljayant"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://twitter.com/njayant86"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/nikhil-jayant-3669a8207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<br />
 ## 🔰 Skills
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<br />
 ## 📊 Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhiljayant&theme=dark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhiljayant&theme=dark" />
