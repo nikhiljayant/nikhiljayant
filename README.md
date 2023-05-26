@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="460" height="300" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+  <img width="460" height="300" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />>
 </div>
 ***
 ***Hi there 👋 I'm Nikhil Jayant***
