@@ -1,4 +1,6 @@
-<p align="centre" font-weight="bold">Hi there 👋 I'm Nikhil Jayant</p>
+<div align="centre">
+  <p font-weight="bold">Hi there 👋 I'm Nikhil Jayant</p>
+</div>
 ***
 **🚀 About Me :** <br />
 <br />
