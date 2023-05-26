@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Nikhil Jayant
+<p align="centre" font-weight="bold">Hi there 👋 I'm Nikhil Jayant</p>
 ***
 **🚀 About Me :** <br />
 <br />
