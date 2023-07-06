@@ -1,6 +1,5 @@
-<p align="centre">
+<h1 align="center">Material Bread</h1>
 ### Hi there 👋 I'm Nikhil Jayant
-</p>
 ***
 **🚀 About Me :** <br />
 <br />
