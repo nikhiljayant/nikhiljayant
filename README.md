@@ -1,4 +1,3 @@
-<h1 align="center">Hi there 👋 I'm Nikhil Jayant</h1>
 ### Hi there 👋 I'm Nikhil Jayant
 ***
 **🚀 About Me :** <br />
